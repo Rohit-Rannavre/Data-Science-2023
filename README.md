@@ -36,11 +36,6 @@ This repository contains some ML/DL projects that I have done as a beginner for 
 
 ***
 
-### :zap: Satellite Image Classification with CNN
-> [Dataset]()
-
-> [Python Code]()
-
 <br>
 
 ### ***Let's connect:*** 
