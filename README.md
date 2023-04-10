@@ -1,5 +1,5 @@
 # :star: Data Science Projects [2023]
-![](https://img.shields.io/badge/Tools-Python%20|%20Pandas%20|%20Numpy%20|%20Matplotlib%20|%20Seaborn%20|%20Tensorflow%20|%20Keras%20tuner-eb3471?style=for-the-badge)
+![](https://img.shields.io/badge/Tools-Python%20|%20Pandas%20|%20Numpy%20|%20Matplotlib%20|%20Seaborn%20|%20sklearn%20|%20Tensorflow%20|%20Keras%20tuner-eb3471?style=for-the-badge)
 
 This repository contains some ML/DL projects that I have done as a beginner for practical purposes.
 
@@ -62,6 +62,20 @@ This repository contains some ML/DL projects that I have done as a beginner for 
 
 ### :zap: Flower Classification with Inception (TensorFlow Hub)
 > [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2023/blob/main/Beginner%20Data%20Science%20Projects/flower_classification_with_inception_(tensorflow_hub).ipynb)
+
+***
+
+### :zap: Spam Classification with Bag-of-Words
+> [Dataset](https://github.com/Rohit-Rannavre/Data-Science-2023/blob/main/Beginner%20Data%20Science%20Projects/spam_dataset.csv)
+
+> [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2023/blob/main/Beginner%20Data%20Science%20Projects/spam_classification_with_BOW.ipynb)
+
+***
+
+### :zap: Spam Classification with TF-IDF
+> [Dataset](https://github.com/Rohit-Rannavre/Data-Science-2023/blob/main/Beginner%20Data%20Science%20Projects/spam_dataset.csv)
+
+> [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2023/blob/main/Beginner%20Data%20Science%20Projects/spam_classification_with_tfidf.ipynb)
 
 <br>
 
