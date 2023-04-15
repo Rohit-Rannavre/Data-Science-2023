@@ -77,6 +77,16 @@ This repository contains some ML/DL projects that I have done as a beginner for 
 
 > [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2023/blob/main/Beginner%20Data%20Science%20Projects/spam_classification_with_tfidf.ipynb)
 
+***
+
+### :zap: IMDB - Sentiment Analysis with SimpleRNN
+> [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2023/blob/main/Beginner%20Data%20Science%20Projects/imdb_sentiment_analysis_with_integer_encoding.ipynb)
+
+***
+
+### :zap: IMDB - Sentiment Analysis with Embedding Layer & SimpleRNN
+> [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2023/blob/main/Beginner%20Data%20Science%20Projects/imdb_sentiment_analysis_with_embedding_layer.ipynb)
+
 <br>
 
 ### ***Let's connect:*** 
