@@ -46,7 +46,12 @@ This repository contains some ML/DL projects that I have done as a beginner for 
 ### :zap: Satellite Image Classification with CNN
 > [Dataset](https://github.com/Rohit-Rannavre/Data-Science-2023/blob/main/Beginner%20Data%20Science%20Projects/satellite-image-classification-dataset.zip)
 
-> [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2023/blob/main/Beginner%20Data%20Science%20Projects/satellite_image_classification_with_CNN.ipynb)
+> [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2023/blob/main/Beginner%20Data%20Science%20Projects/satellite_image_classification_with_CNN_data_aug.ipynb)
+
+***
+
+### :zap: Flower Classification with Data Augmentation
+> [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2023/blob/main/Beginner%20Data%20Science%20Projects/flower_classification_with_data_augmentation.ipynb)
 
 ***
 
