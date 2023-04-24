@@ -97,6 +97,16 @@ This repository contains some ML/DL projects that I have done as a beginner for 
 ### :zap: IMDB - Sentiment Analysis with Embedding Layer & SimpleRNN
 > [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2023/blob/main/Beginner%20Data%20Science%20Projects/imdb_sentiment_analysis_with_embedding_layer.ipynb)
 
+***
+
+### :zap: IMDB - Sentiment Analysis with Text Vectorization Layer, Embedding Layer & LSTM
+> [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2023/blob/main/Beginner%20Data%20Science%20Projects/imdb_sentiment_analysis_with_TextVectorizationLayer_LSTM_tfds.ipynb)
+
+***
+
+### :zap: IMDB - Sentiment Analysis with Text Vectorization Layer, Embedding Layer & GRU
+> [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2023/blob/main/Beginner%20Data%20Science%20Projects/imdb_sentiment_analysis_with_TextVectorizationLayer__GRU_CSV.ipynb)
+
 <br>
 
 ### ***Let's connect:*** 
