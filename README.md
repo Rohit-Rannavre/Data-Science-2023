@@ -31,7 +31,7 @@ This repository contains some ML/DL projects that I have done as a beginner for 
 
 > [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2023/blob/main/Beginner%20Data%20Science%20Projects/credit_card_customer_churn_prediction_with_ANN.ipynb)
 
-### :zap: Fashion MNIST Image Classification
+### :zap: Fashion MNIST Image Classification with Hyperparameter Tuning
 > [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2023/blob/main/Beginner%20Data%20Science%20Projects/fashion_mnist_image_classification_with_ANN.ipynb)
 
 <br>
