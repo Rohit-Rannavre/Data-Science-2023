@@ -36,7 +36,7 @@ This repository contains some ML/DL projects that I have done as a beginner for 
 
 <br>
 
-### :diamonds: Convolutional Neural Network - CNN
+### :diamonds: Convolutional Neural Network [CNN] / Computer Vision
 ***
 
 ### :zap: Satellite Image Classification
@@ -61,7 +61,7 @@ This repository contains some ML/DL projects that I have done as a beginner for 
 
 <br>
 
-### :diamonds: Recurrent Neural Network - RNN
+### :diamonds: Recurrent Neural Network [RNN] / Natural Language Processing [NLP]
 ***
 
 ### :zap: Spam Classification with Bag-of-Words
@@ -87,6 +87,12 @@ This repository contains some ML/DL projects that I have done as a beginner for 
 > [Dataset](https://github.com/Rohit-Rannavre/Data-Science-2023/blob/main/Beginner%20Data%20Science%20Projects/imdb_reviews_sentiment_analysis.csv)
  
 > [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2023/blob/main/Beginner%20Data%20Science%20Projects/imdb_sentiment_analysis_with_TextVectorizationLayer__GRU_CSV.ipynb)
+
+### :zap: Fake News Classification with Pretrained Word2Vec Model
+> [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2023/blob/main/Beginner%20Data%20Science%20Projects/news_classification_with_word2vec_pretrained_model_gensim.ipynb)
+
+### :zap: Fake News Classification with Pretrained Glove Model
+> [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2023/blob/main/Beginner%20Data%20Science%20Projects/news_classification_with_glove_pretrained_model_gensim.ipynb)
 
 <br>
 
