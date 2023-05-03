@@ -1,5 +1,5 @@
 # :star: Data Science Projects [2023]
-![](https://img.shields.io/badge/Tools-Python%20|%20Pandas%20|%20Numpy%20|%20Matplotlib%20|%20Seaborn%20|%20sklearn%20|%20nltk%20|%20Tensorflow%20|%20Keras%20tuner-eb3471?style=for-the-badge)
+![](https://img.shields.io/badge/Tools-Python%20|%20Pandas%20|%20Numpy%20|%20Matplotlib%20|%20Seaborn%20|%20sklearn%20|%20Tensorflow%20|%20Keras%20tuner%20|%20nltk%20|%20gensim%20|%20fasttext%20-eb3471?style=for-the-badge)
 
 This repository contains some ML/DL projects that I have done as a beginner for practical purposes.
 
