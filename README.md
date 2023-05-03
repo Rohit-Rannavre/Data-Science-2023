@@ -89,7 +89,7 @@ This repository contains some ML/DL projects that I have done as a beginner for 
 > [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2023/blob/main/Beginner%20Data%20Science%20Projects/imdb_sentiment_analysis_with_TextVectorizationLayer__GRU_CSV.ipynb)
 
 ### :zap: IMDB - Sentiment Analysis with FastText
-> [Dataset](https://github.com/Rohit-Rannavre/Data-Science-2023/blob/main/Beginner%20Data%20Science%20Projects/imdb_reviews_sentiment_analysis.csv)
+> [Dataset](https://raw.githubusercontent.com/Rohit-Rannavre/Data-Science-2023/main/Beginner%20Data%20Science%20Projects/imdb_dataset.csv)
  
 > [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2023/blob/main/Beginner%20Data%20Science%20Projects/IMDB_sentiment_analysis_with_fasttext.ipynb)
 
