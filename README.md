@@ -5,7 +5,7 @@ This repository contains some ML/DL projects that I have done as a beginner for 
 
 <br>
 
-### :diamonds: Artificial Neural Network - ANN
+### Artificial Neural Network - ANN
 ***
 
 ### :zap: Iris Classification
@@ -36,7 +36,7 @@ This repository contains some ML/DL projects that I have done as a beginner for 
 
 <br>
 
-### :diamonds: Convolutional Neural Network [CNN] / Computer Vision
+### Convolutional Neural Network [CNN] / Computer Vision
 ***
 
 ### :zap: Satellite Image Classification
@@ -61,7 +61,7 @@ This repository contains some ML/DL projects that I have done as a beginner for 
 
 <br>
 
-### :diamonds: Recurrent Neural Network [RNN] / Natural Language Processing [NLP]
+### Recurrent Neural Network [RNN] / Natural Language Processing [NLP]
 ***
 
 ### :zap: Spam Classification with Bag-of-Words
