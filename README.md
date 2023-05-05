@@ -1,5 +1,15 @@
 # :star: Data Science Projects [2023]
-![](https://img.shields.io/badge/Tools-Python%20|%20Pandas%20|%20Numpy%20|%20Matplotlib%20|%20Seaborn%20|%20sklearn%20|%20Tensorflow%20|%20Keras%20tuner%20|%20nltk%20|%20gensim%20|%20fasttext%20-eb3471?style=for-the-badge)
+
+![](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/NumPy-299cab.svg?style=for-the-badge&logo=NumPy&logoColor=white)
+![](https://img.shields.io/badge/Matplotlib-%23ed7409.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![](https://img.shields.io/badge/Seaborn-%230aa1a6.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![](https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![](https://img.shields.io/badge/nltk-%23a60a87.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![](https://img.shields.io/badge/gensim-%230aa633.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![](https://img.shields.io/badge/spaCy-09A3D5.svg?style=for-the-badge&logo=spaCy&logoColor=white)
 
 This repository contains some ML/DL projects that I have done as a beginner for practical purposes.
 
