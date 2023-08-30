@@ -21,6 +21,9 @@ This repository contains some ML/DL projects that I have done as a beginner for 
 ### :zap: Iris Classification
 > [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2023/blob/main/Beginner%20Data%20Science%20Projects/iris_classification_with_ANN.ipynb)
 
+### :zap: Iris Classification with Keras Tuner
+> [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2023/blob/main/Beginner%20Data%20Science%20Projects/iris_classification_with_keras_tuner.ipynb)
+
 ### :zap: Diabetes Prediction
 > [Dataset](https://github.com/Rohit-Rannavre/Data-Science-2023/blob/main/Beginner%20Data%20Science%20Projects/diabetes_dataset.csv)
 
